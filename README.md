@@ -46,4 +46,4 @@ Visualization
 
 ![image](https://github.com/96xinyuzhou/Sharing-Bike-Demand-Visualization/blob/main/picture/%E6%88%AA%E5%B1%8F2020-09-24%20%E4%B8%8A%E5%8D%889.44.03.png)
 
-## If you have any questions, welcome to contact me : 96xinyuzhou@163.com
+## If you have any questions, welcome to contact me : xinyuzhou96@163.com
